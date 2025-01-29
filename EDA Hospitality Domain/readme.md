@@ -16,7 +16,7 @@ The project utilizes the following datasets:
 
 ## Key Insights
 
-Most hotel bookings come from the "others" category, followed by Makeyourtrip and Logtrip. The dataset covers 25 properties, with the highest-capacity property (ID: 17558) having 92 rows of data. Extreme revenue outliers beyond three standard deviations were removed to maintain data integrity. 
+Most hotel bookings come from the "others" category, followed by Makeyourtrip and Logtrip. The dataset covers 25 properties, with the highest-capacity property (ID: 17558) having 92 reservations. Extreme revenue outliers beyond three standard deviations were removed to maintain data integrity. 
 
 Delhi has the highest occupancy rate at 62.47%, while Bangalore has the lowest at 56.44%. Occupancy is generally higher on weekends. Despite Delhi leading in occupancy, Mumbai generates the highest revenue (668M), whereas Delhi generates the least (294M). This suggests Mumbai benefits from higher room rates or a larger hotel inventory.
 
