@@ -1,5 +1,5 @@
 
----
+
 
 # Expense Management System 💰  
 
@@ -29,8 +29,7 @@ Track, analyze, and manage your expenses efficiently with this streamlined Expen
 2. Streamlit communicates with the FastAPI backend.  
 3. Backend performs CRUD operations and analytics using a MySQL database.  
 
-**Workflow Diagram Placeholder**  
-*(Insert your workflow image here)*  
+![Image](https://github.com/user-attachments/assets/838c5657-337e-4422-9b8e-4eb95005b73c)
 
 ---
 
@@ -69,11 +68,11 @@ Track, analyze, and manage your expenses efficiently with this streamlined Expen
 
 ## Tabs in the Application 🖥️  
 - **Add/Update Expenses:** Manage expenses by selecting a date, amount, category, and notes.  
-  *(Insert image of Add/Update Expenses tab here)*  
+ ![Image](https://github.com/user-attachments/assets/154d29ba-6fe0-42f5-807c-e8c5c0d40b36)
 - **Category Analysis:** View category-wise expense breakdown with percentages and bar charts.  
-  *(Insert image of Category Analysis tab here)*  
+![Image](https://github.com/user-attachments/assets/ff21265b-57c6-4bd2-9953-a90d1e1ce800)
 - **Monthly Trends:** Explore expense trends over months with detailed insights.  
-  *(Insert image of Monthly Trends tab here)*  
+![Image](https://github.com/user-attachments/assets/6bf9e7ff-cd45-466e-b965-06173bc14e29)
 
 ---
 
@@ -115,4 +114,4 @@ Track, analyze, and manage your expenses efficiently with this streamlined Expen
 - Implement user authentication.  
 - Add data export functionality.  
 
----
+
