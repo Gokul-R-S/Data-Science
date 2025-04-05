@@ -114,22 +114,26 @@ Explore how your expenses change over time, month by month, with insightful visu
 
 ## How to Run Locally   
 1. **Clone the Repository**:  
+
    ```bash
    git clone <repository-url>
    cd Expense-Management-System
    ```
-2. **Install Dependencies**:  
+2. **Install Dependencies**:
+   
    ```bash
    pip install -r requirements.txt
    ```
 3. **Set Up MySQL**:  
    - Install MySQL and create a database (e.g., `expense_manager`).  
-   - Run the `expense_db_creation.sql` script to set up the schema:  
+   - Run the `expense_db_creation.sql` script to set up the schema:
+       
      ```bash
      mysql -u <username> -p <database_name> < expense_db_creation.sql
      ```
 4. **Configure Environment Variables**:  
-   - Create a `.env` file in the project root with the following:  
+   Create a `.env` file in the project root with the following:
+    
      ```plaintext
      DB_HOST=localhost
      DB_USER=<your-mysql-username>
@@ -137,14 +141,16 @@ Explore how your expenses change over time, month by month, with insightful visu
      DB_NAME=expense_manager
      API_URL=http://localhost:8000
      ```
-5. **Run the FastAPI Server**:  
-   - Navigate to the `backend` directory:  
+5. **Run the FastAPI Server**:
+   Navigate to the `backend` directory:
+   
      ```bash
      cd backend
      uvicorn server:app --reload
      ```
 6. **Start the Streamlit Frontend**:  
-   - Open a new terminal, navigate to the `frontend` directory:  
+   Open a new terminal, navigate to the `frontend` directory:
+  
      ```bash
      cd frontend
      streamlit run app.py
