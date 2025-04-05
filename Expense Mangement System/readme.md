@@ -67,7 +67,7 @@ Track, analyze, and manage your expenses efficiently with this streamlined Expen
 ---
 
 ## Tabs in the Application 🖥️  
-- **Add/Update Expenses:** Manage expenses by selecting a date, amount, category, and notes.  
+### **Add/Update Expenses:** Manage expenses by selecting a date, amount, category, and notes.  
 
  ![Image](https://github.com/user-attachments/assets/627e88ff-01ca-444f-9008-68dc555dbfe5)
  
