@@ -69,13 +69,15 @@ Track, analyze, and manage your expenses efficiently with this streamlined Expen
 ## Tabs in the Application 🖥️  
 - **Add/Update Expenses:** Manage expenses by selecting a date, amount, category, and notes.  
 
- ![Image](https://github.com/user-attachments/assets/154d29ba-6fe0-42f5-807c-e8c5c0d40b36)
+ ![Image](https://github.com/user-attachments/assets/627e88ff-01ca-444f-9008-68dc555dbfe5)
+ 
 - **Category Analysis:** View category-wise expense breakdown with percentages and bar charts.  
 
-![Image](https://github.com/user-attachments/assets/ff21265b-57c6-4bd2-9953-a90d1e1ce800)
+![Image](https://github.com/user-attachments/assets/922abf9c-b5f9-46cb-9bd1-cbafb2e8bc2e)
+
 - **Monthly Trends:** Explore expense trends over months with detailed insights.  
 
-![Image](https://github.com/user-attachments/assets/6bf9e7ff-cd45-466e-b965-06173bc14e29)
+![Image](https://github.com/user-attachments/assets/226b47eb-235d-42f9-a863-357a426d3dd0)
 
 ---
 
