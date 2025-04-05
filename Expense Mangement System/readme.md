@@ -30,7 +30,7 @@ Track, analyze, and manage your expenses efficiently with this streamlined Expen
 2. Streamlit communicates with the FastAPI backend.  
 3. Backend performs CRUD operations and analytics using a MySQL database.  
 
-![Image](https://github.com/user-attachments/assets/838c5657-337e-4422-9b8e-4eb95005b73c)
+![Image](https://github.com/user-attachments/assets/dcced401-43b3-4bf1-88c1-59c9e4d569e5)
 
 ---
 
