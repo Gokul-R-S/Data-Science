@@ -160,7 +160,7 @@ Track, analyze, and manage your expenses efficiently with this streamlined Expen
 
 ---
 
-## Troubleshooting ⚠️  
+## Troubleshooting 🚨  
 - **Database Connection Issues**: Verify MySQL is running and `.env` credentials are correct.  
 - **API Errors**: Check `server.log` in the `backend` directory for detailed backend logs.  
 - **Frontend Not Loading**: Ensure the FastAPI server is running, `API_URL` in `.env` matches the server address, and check `frontend.log` in the `backend` directory for frontend-specific logs.
