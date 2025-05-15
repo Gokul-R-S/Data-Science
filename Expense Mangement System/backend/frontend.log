@@ -1,0 +1,31 @@
+2025-05-13 04:15:33,690 - add_update - INFO - Fetching existing expenses for date: 2024-08-01
+2025-05-13 04:15:35,907 - monthly_analytics - INFO - Fetching monthly analytics data from the server.
+2025-05-13 04:15:38,521 - monthly_analytics - INFO - Monthly analytics successfully rendered on the dashboard.
+2025-05-13 04:15:42,302 - add_update - INFO - Fetching existing expenses for date: 2024-08-01
+2025-05-13 04:15:44,388 - monthly_analytics - INFO - Fetching monthly analytics data from the server.
+2025-05-13 04:15:46,486 - monthly_analytics - INFO - Monthly analytics successfully rendered on the dashboard.
+2025-05-13 04:15:48,891 - add_update - INFO - Fetching existing expenses for date: 2024-08-01
+2025-05-13 04:15:51,016 - analytics_category - INFO - Fetching analytics for date range: 2024-08-03 to 2024-08-05.
+2025-05-13 04:15:53,088 - analytics_category - INFO - Category analytics successfully rendered on the dashboard.
+2025-05-13 04:15:53,088 - monthly_analytics - INFO - Fetching monthly analytics data from the server.
+2025-05-13 04:15:55,153 - monthly_analytics - INFO - Monthly analytics successfully rendered on the dashboard.
+2025-05-13 04:15:56,289 - add_update - INFO - Fetching existing expenses for date: 2024-08-01
+2025-05-13 04:15:58,389 - monthly_analytics - INFO - Fetching monthly analytics data from the server.
+2025-05-13 04:16:00,499 - monthly_analytics - INFO - Monthly analytics successfully rendered on the dashboard.
+2025-05-13 04:16:02,426 - add_update - INFO - Fetching existing expenses for date: 2024-08-01
+2025-05-13 04:16:04,505 - monthly_analytics - INFO - Fetching monthly analytics data from the server.
+2025-05-13 04:16:06,644 - monthly_analytics - INFO - Monthly analytics successfully rendered on the dashboard.
+2025-05-15 02:18:30,329 - utils - ERROR - Failed to load test data from http://example.com. HTTP Status: 500, Error Details: <MagicMock name='get().json().get()' id='3151659806896'>
+2025-05-15 02:18:34,955 - monthly_analytics - INFO - Fetching monthly analytics data from the server.
+2025-05-15 02:18:36,200 - monthly_analytics - INFO - Monthly analytics successfully rendered on the dashboard.
+2025-05-15 02:18:36,247 - add_update - INFO - Fetching existing expenses for date: 2024-08-01
+2025-05-15 02:18:36,302 - add_update - INFO - Fetching existing expenses for date: 2024-08-01
+2025-05-15 02:18:36,315 - add_update - INFO - Form submitted with expenses: [{'amount': 100.0, 'category': 'Food', 'notes': 'Lunch'}, {'amount': None, 'category': 'Select Category', 'notes': ''}, {'amount': None, 'category': 'Select Category', 'notes': ''}, {'amount': None, 'category': 'Select Category', 'notes': ''}, {'amount': None, 'category': 'Select Category', 'notes': ''}]
+2025-05-15 02:18:36,323 - add_update - INFO - Expenses updated successfully for date: 2024-08-01
+2025-05-15 02:20:45,363 - utils - ERROR - Failed to load test data from http://example.com. HTTP Status: 500, Error Details: <MagicMock name='get().json().get()' id='2189897249328'>
+2025-05-15 02:20:46,209 - monthly_analytics - INFO - Fetching monthly analytics data from the server.
+2025-05-15 02:20:47,198 - monthly_analytics - INFO - Monthly analytics successfully rendered on the dashboard.
+2025-05-15 02:20:47,233 - add_update - INFO - Fetching existing expenses for date: 2024-08-01
+2025-05-15 02:20:47,271 - add_update - INFO - Fetching existing expenses for date: 2024-08-01
+2025-05-15 02:20:47,286 - add_update - INFO - Form submitted with expenses: [{'amount': 100.0, 'category': 'Food', 'notes': 'Lunch'}, {'amount': None, 'category': 'Select Category', 'notes': ''}, {'amount': None, 'category': 'Select Category', 'notes': ''}, {'amount': None, 'category': 'Select Category', 'notes': ''}, {'amount': None, 'category': 'Select Category', 'notes': ''}]
+2025-05-15 02:20:47,287 - add_update - INFO - Expenses updated successfully for date: 2024-08-01

@@ -1,0 +1,23 @@
+2025-05-13 02:06:44,697 - db_helper - INFO - Expense inserted for 2024-03-21 under 'Food'
+2025-05-13 02:06:44,711 - db_helper - INFO - Deleted 1 expenses for date 2024-03-21
+2025-05-13 04:15:35,776 - api_server - INFO - Fetching expenses for date: 2024-08-01
+2025-05-13 04:15:37,952 - api_server - INFO - Fetching monthly expense summary
+2025-05-13 04:15:44,329 - api_server - INFO - Fetching expenses for date: 2024-08-01
+2025-05-13 04:15:46,430 - api_server - INFO - Fetching monthly expense summary
+2025-05-13 04:15:50,922 - api_server - INFO - Fetching expenses for date: 2024-08-01
+2025-05-13 04:15:53,064 - api_server - INFO - Fetching analytics for date range: 2024-08-03 to 2024-08-05
+2025-05-13 04:15:55,119 - api_server - INFO - Fetching monthly expense summary
+2025-05-13 04:15:58,342 - api_server - INFO - Fetching expenses for date: 2024-08-01
+2025-05-13 04:16:00,413 - api_server - INFO - Fetching monthly expense summary
+2025-05-13 04:16:04,448 - api_server - INFO - Fetching expenses for date: 2024-08-01
+2025-05-13 04:16:06,568 - api_server - INFO - Fetching monthly expense summary
+2025-05-15 01:54:01,555 - db_helper - INFO - Expense inserted for 2024-03-21 under 'Food'
+2025-05-15 01:54:01,619 - db_helper - INFO - Deleted 1 expenses for date 2024-03-21
+2025-05-15 02:18:36,454 - api_server - INFO - Adding/Updating expenses for date: 2024-08-15, Count: 1
+2025-05-15 02:18:36,468 - api_server - INFO - Fetching analytics for date range: 2024-08-01 to 2024-08-31
+2025-05-15 02:18:36,482 - api_server - INFO - Fetching monthly expense summary
+2025-05-15 02:18:36,482 - api_server - ERROR - Failed to fetch monthly summary: DB error
+2025-05-15 02:20:47,318 - api_server - INFO - Adding/Updating expenses for date: 2024-08-15, Count: 1
+2025-05-15 02:20:47,328 - api_server - INFO - Fetching analytics for date range: 2024-08-01 to 2024-08-31
+2025-05-15 02:20:47,338 - api_server - INFO - Fetching monthly expense summary
+2025-05-15 02:20:47,338 - api_server - ERROR - Failed to fetch monthly summary: DB error
