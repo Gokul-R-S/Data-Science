@@ -1,4 +1,4 @@
-# Expense Management System 💰  
+# Expense Management System   
 
 Track, analyze, and manage your expenses efficiently with this streamlined Expense Management System. The application includes a FastAPI backend for database operations and a Streamlit frontend for interactive expense management and visualization.  
 
