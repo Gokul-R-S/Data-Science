@@ -46,7 +46,7 @@ def test_fetch_expense_summary_scenarios():
     summary_month = db_helper.fetch_expense_summary('2024-08-01', '2024-08-31')
     validate_summary_data(summary_month)
 
-    # Single day (matches Sep 4 data)
+    # Single day 
     summary_day = db_helper.fetch_expense_summary('2024-09-04', '2024-09-04')
     validate_summary_data(summary_day)
     assert len(summary_day) == 3
