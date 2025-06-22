@@ -29,7 +29,7 @@ def test_analytics_months_ui(mocker):
 
     app = AppTest.from_file("frontend/analytics_months.py").run(timeout=10)
 
-    # Verify the app ran without crashing
+    # Verify the app ran without crashing - unexpected exception
     assert not app.exception
 
     # Confirm that no error messages were shown in the UI
