@@ -119,7 +119,7 @@ def add_update_tab():
                     frontend_logger.info(f"Expenses updated successfully for date: {selected_date_str}")
 
                     # Display any errors (invalid inserts skipped by the backend)
-                    errors = response_data.get('errors', [])  # errors -> list none
+                    errors = response_data.get('errors', [])  # errors -> [] none
                     if errors:
                         for error in errors:
                             st.warning(f"⚠️ {error}")
