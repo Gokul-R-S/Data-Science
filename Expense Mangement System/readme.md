@@ -75,7 +75,7 @@ Track, analyze, and manage your expenses efficiently with this streamlined Expen
 ![Image](https://github.com/user-attachments/assets/ff21265b-57c6-4bd2-9953-a90d1e1ce800)
 - **Monthly Trends:** Explore expense trends over months with detailed insights.  
 
-![Image](https://github.com/user-attachments/assets/6bf9e7ff-cd45-466e-b965-06173bc14e29)
+![Image](https://github.com/user-attachments/assets/340f965e-ceee-474d-9af2-6a8397bdc5e8)
 
 ---
 
