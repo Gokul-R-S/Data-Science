@@ -32,7 +32,7 @@ def test_fetch_expenses_for_date_scenarios():
 
     # Multiple expenses scenario
     expenses_sep01 = db_helper.fetch_expenses_for_date('2024-09-01')
-    assert len(expenses_sep01) >= 1
+    assert len(expenses_sep01) > 1
     for expense in expenses_sep01:
         validate_expense_data(expense)
 
