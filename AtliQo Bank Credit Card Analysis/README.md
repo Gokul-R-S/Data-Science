@@ -32,4 +32,4 @@ The project involves:
 - Data visualization
 
 ## Conclusion
-The statistical evidence supports launching the new credit card to a broader audience, targeting the identified customer segment.
+The statistical evidence supports launching the new credit card to a broader audience, targeting the identified customer segment. 
