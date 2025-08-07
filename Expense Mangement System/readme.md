@@ -1,4 +1,4 @@
-# Expense Management System   
+<h1 align="center">Expense Management System</h1>
 
 Track, analyze, and manage your expenses efficiently with this streamlined Expense Management System. The application includes a FastAPI backend for database operations and a Streamlit frontend for interactive expense management and visualization.  
 
@@ -164,6 +164,7 @@ Track, analyze, and manage your expenses efficiently with this streamlined Expen
 - **Database Connection Issues**: Verify MySQL is running and `.env` credentials are correct.  
 - **API Errors**: Check `server.log` in the `backend` directory for detailed backend logs.  
 - **Frontend Not Loading**: Ensure the FastAPI server is running, `API_URL` in `.env` matches the server address, and check `frontend.log` in the `backend` directory for frontend-specific logs.
+
 
 
 
