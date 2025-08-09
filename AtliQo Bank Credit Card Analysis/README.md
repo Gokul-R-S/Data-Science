@@ -13,7 +13,7 @@ AtliQo Bank aims to target customers most likely to have higher transaction amou
 - Outlier treatment for transaction amounts using product-category means.
 - Capping outstanding debt to the maximum credit limit.
 - Duplicate removal for credit score data.
-- Key finding: Amazon dominates transaction counts, but average transaction amounts are similar across platforms.
+- Amazon dominates transaction counts, but average transaction amounts are similar across platforms.
 
 ### Phase 2: A/B Testing
 - **Population:** Customers aged 18–25.
