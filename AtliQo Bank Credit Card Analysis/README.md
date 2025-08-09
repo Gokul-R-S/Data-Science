@@ -9,7 +9,8 @@ AtliQo Bank aims to target customers most likely to have higher transaction amou
 - **Phase 2 – A/B Testing:** Running a statistical experiment to measure the credit card’s impact.
 
 ### Phase 1: Data Preprocessing & Insights
-- Imputation of missing values for income, age, credit limit, and platform.
+- Imputation of missing values for income, credit limit, and platform.
+- Values deemed invalid for Age (<18 or >80) were replaced with mean per occupation.
 - Outlier treatment for transaction amounts using product-category means.
 - Capping outstanding debt to the maximum credit limit.
 - Duplicate removal for credit score data.
