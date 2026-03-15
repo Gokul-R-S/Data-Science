@@ -6,13 +6,13 @@ An interactive Excel dashboard exploring wage and employment trends across US st
 
 ## Dashboard Preview
 
-![Maven Careers Dashboard](dashboard_screenshot.png)
+<img width="1787" height="832" alt="Image" src="https://github.com/user-attachments/assets/da7b4405-dd39-4a81-a9ad-3f06f8956744" />
 
 ---
 
 ## Demo Video
 
-[Watch the walkthrough on OneDrive](https://1drv.ms/v/c/9222dcd625fad717/IQBJklizv3qMRKLUiXG8KXynARz9MF_EvZH0uC6gb3HeGQI?e=k7OJrJ)
+[Watch the walkthrough](https://1drv.ms/v/c/9222dcd625fad717/IQBJklizv3qMRKLUiXG8KXynARz9MF_EvZH0uC6gb3HeGQI?e=k7OJrJ)
 
 ---
 
